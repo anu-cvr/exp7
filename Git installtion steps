@@ -1,0 +1,10 @@
+Final Order 
+    1. Create GitHub account
+    2. Create repository on GitHub
+    3. Generate Personal Access Token
+    4. Install Git on Ubuntu
+    5. Configure Git (name + email)
+    6. Create or clone repository locally
+    7. Add files and commit
+    8. Connect local repo to GitHub remote
+    9. Push to GitHub using username + token
